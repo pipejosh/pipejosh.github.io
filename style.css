@@ -1,0 +1,39 @@
+@font-face 
+{
+  font-family: 'Phantom Sans';
+  src: url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Bold.woff')
+      format('woff'),
+    url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Bold.woff2')
+      format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+
+}
+
+body
+{
+    font-family: 'Phantom Sans';
+}
+
+img
+{
+    height: 150px;
+}
+
+div
+{
+    padding: 15px;
+}
+
+p
+{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#bread
+{
+    display: inline;
+    padding: 15px;
+}
